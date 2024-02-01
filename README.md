@@ -19,6 +19,7 @@ Outside the realm of coding and security, I'm an active individual who enjoys hi
 PS : These are the non Cyber Secuirty Skills 
 </p>
 Socials
+
 --------------------------------------------------------------------------------------------------------------
    <p align="left">
                       <a href="https://www.github.com/Jaswanthbommi" target="_blank" rel="noreferrer">
