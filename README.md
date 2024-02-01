@@ -19,6 +19,13 @@ Outside the realm of coding and security, I'm an active individual who enjoys hi
 PS : These are the non Cyber Secuirty Skills 
 </p>
 
+
+<h2>👨‍💻  Cyber Security Projects ⚗️ :</h2>
+
+- <b>[Vulnerability Management with Nessus]([https://github.com/Jaswanthbommi](https://github.com/Jaswanthbommi/Nessus)) </b>
+- <b>[Azure Sentinel (SIEM)](https://github.com/Jaswanthbommi) </b>
+- <b>[Active Directory - Home Lab](https://github.com/Jaswanthbommi) </b>
+
 <b>Socials</b>
 
 --------------------------------------------------------------------------------------------------------------
@@ -37,8 +44,3 @@ PS : These are the non Cyber Secuirty Skills
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
                  </a></p>
-<h2>👨‍💻 ⚗️ Cyber Security Projects:</h2>
-
-- <b>[Vulnerability Management with Nessus](https://github.com/Jaswanthbommi) </b>
-- <b>[Azure Sentinel (SIEM)](https://github.com/Jaswanthbommi) </b>
-- <b>[Active Directory - Home Lab](https://github.com/Jaswanthbommi) </b>
