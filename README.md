@@ -23,7 +23,7 @@ PS : These are the non Cyber Secuirty Skills
 <h2>👨‍💻  Cyber Security Projects ⚗️ :</h2>
 
 - <b>[Vulnerability Management with Nessus](https://github.com/Jaswanthbommi/Nessus) </b>
-- <b>[Azure Sentinel (SIEM)](https://github.com/Jaswanthbommi) </b>
+- <b>[Azure Sentinel (SIEM)](https://github.com/Jaswanthbommi/SIEM--AZURE) </b>
 - <b>[Active Directory - Home Lab](https://github.com/Jaswanthbommi) </b>
 
 <b>Socials</b>
