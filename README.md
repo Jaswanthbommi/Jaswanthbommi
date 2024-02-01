@@ -32,7 +32,8 @@ Socials
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
                  </a></p>
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 ⚗️ Cyber Security Projects:</h2>
 
 - <b>[Vulnerability Management with Nessus](https://github.com/Jaswanthbommi) </b>
- 
+- <b>[Azure Sentinel (SIEM)](https://github.com/Jaswanthbommi) </b>
+- <b>[Active Directory - Home Lab](https://github.com/Jaswanthbommi) </b>
