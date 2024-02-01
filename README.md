@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber Security Analyst
 ----------------------
 
-Security Analyst | ISC2 CC Certified | Google Cyber Security Certified | Top 3% on TryHackMe | Top Security Voice (Linkedin)
+
 
 *   🚀  I'm currently working on [My Github Profile](http://github.com/Jaswanthbommi)
 *   🧠  I'm learning Everything relating to Cyber Security - Trying to Learn
