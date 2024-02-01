@@ -34,5 +34,5 @@ Socials
                  </a></p>
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Vulnerability Management with Nessus</b>
-  - [Project](https://github.com/Jaswanthbommi)
+- <b>[Vulnerability Management with Nessus](https://github.com/Jaswanthbommi) </b>
+ 
