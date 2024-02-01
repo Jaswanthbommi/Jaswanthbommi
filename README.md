@@ -18,7 +18,8 @@ Outside the realm of coding and security, I'm an active individual who enjoys hi
  
 PS : These are the non Cyber Secuirty Skills 
 </p>
-Socials
+
+<b>Socials</b>
 
 --------------------------------------------------------------------------------------------------------------
    <p align="left">
