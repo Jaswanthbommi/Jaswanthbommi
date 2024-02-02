@@ -24,7 +24,7 @@ PS : These are the non Cyber Secuirty Skills
 
 - <b>[Vulnerability Management with Nessus](https://github.com/Jaswanthbommi/Nessus) </b>
 - <b>[Azure Sentinel (SIEM)](https://github.com/Jaswanthbommi/SIEM--AZURE) </b>
-- <b>[Active Directory - Home Lab](https://github.com/Jaswanthbommi) </b>
+- <b>[Active Directory - Home Lab](https://github.com/Jaswanthbommi/Active-Directory) </b>
 
 <b>Socials</b>
 
